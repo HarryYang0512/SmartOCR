@@ -31,6 +31,7 @@ This project is a hybrid OCR pipeline that combines the **speed of C++** (for im
 
 **Extracted Text:**
 [1] Box(...) → 'Tesseract'
+
 [2] Box(...) → 'sample'
 
 ---
