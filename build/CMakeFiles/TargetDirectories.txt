@@ -1,0 +1,4 @@
+D:/SmartOCR/build/CMakeFiles/preprocess.dir
+D:/SmartOCR/build/CMakeFiles/preprocess_test.dir
+D:/SmartOCR/build/CMakeFiles/ALL_BUILD.dir
+D:/SmartOCR/build/CMakeFiles/ZERO_CHECK.dir

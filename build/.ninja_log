@@ -1,0 +1,6 @@
+# ninja log v6
+1	1055	7700220495731426	CMakeFiles/preprocess.dir/preprocess.cpp.obj	9322df0b9283d90b
+837	1047	7700217342623427	bin/libpreprocess.dll	4272a84f6c98ab40
+837	1047	7700217342623427	libpreprocess.dll.a	4272a84f6c98ab40
+10	3862	7700220951137793	CMakeFiles/preprocess_test.dir/main.cpp.obj	4a9e8b66c38afe88
+4	2555	7700226289933787	CMakeFiles/preprocess.dir/preprocess.cpp.obj	9322df0b9283d90b

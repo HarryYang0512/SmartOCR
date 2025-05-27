@@ -1,0 +1,10 @@
+^D:\SMARTOCR\BUILD\CMAKEFILES\6B12820C7CD9EE6BED4C36CE5EB5F835\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -SD:/SmartOCR/cpp -BD:/SmartOCR/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/SmartOCR/build/preprocess.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
